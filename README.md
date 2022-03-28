@@ -14,3 +14,23 @@ I could also name this **"mastering the basics"**, since it was my first large w
 
 
 
+## Frontend<br>
+
+## Technologies Used<br>
+
+* JavaScript
+* JQuery
+* AJAX
+* Swift Mailer
+* AOS
+* Parallax-effect
+* Fpdf
+* D3.js
+
+## Backend<br>
+
+## Technologies Used<br>
+
+* PHP
+* MySQL
+* MySQLi

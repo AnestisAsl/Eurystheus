@@ -1,5 +1,7 @@
 # Eurystheus
 
+## The rest of the Code will be provided soon, after checking for sensitive informations.
+
 As part of my dissertation, a full stack web application called Eurystheus
 was developed, which aims to automate and provide facilities to students and teachers
 in the issue of dissertation assignments. With the application, the student can easily and
@@ -11,4 +13,4 @@ award-winning web design websites offers a pleasant user experience.
 I could also name this **"mastering the basics"**, since it was my first large web development project. It is not pure vanilla JS since i used libraries like jQuery and AJAX but it is developed without using frontend or backend frameworks. Read the very detailed .pdf file for more informations like the tech-stack and more. It also contains images as a brief preview of the application.
 
 
-The rest of the Code will be provided soon, after checking for sensitive informations.
+

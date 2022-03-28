@@ -1,6 +1,6 @@
 # Eurystheus
 
-## The rest of the Code will be provided soon, after checking for sensitive informations.
+## The rest of the Code will be provided soon, refactoring.
 
 As part of my dissertation, a full stack web application called Eurystheus
 was developed, which aims to automate and provide facilities to students and teachers
